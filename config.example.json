@@ -1,0 +1,28 @@
+{
+  "accountId": "17841450147778141",
+  "username": "eserv.kz",
+  "mode": "preview",
+  "pollSeconds": 180,
+  "maxMedia": 25,
+  "maxCommentsPages": 10,
+  "maxApiCallsHour": 160,
+  "maxRepliesHour": 12,
+  "maxRepliesDay": 60,
+  "replyGapSeconds": 60,
+  "minRepeatHours": 24,
+  "enabledCategories": [
+    "laugh",
+    "smile",
+    "heart",
+    "fire",
+    "approval",
+    "applause",
+    "strength",
+    "thanks",
+    "greeting",
+    "agreement"
+  ],
+  "allowMediaIds": [],
+  "since": null,
+  "transport": "poll"
+}
